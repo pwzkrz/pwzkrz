@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pwzkrz
-- 👀 I’m interested in wordpress, js, react, php
-- 🌱 I’m currently learning next.js and starting to work as junior frontend dev
+- 👀 I’m interested in js, react, next.js, node
+- 🌱 I’m currently working as js developer
 - 💞️ I’m looking to collaborate on whatever that will push me forward
-- 📫 How to reach me: pwzkrz at gmail
